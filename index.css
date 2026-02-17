@@ -1,0 +1,85 @@
+html, body
+{
+   height: 100%;
+}
+div#space
+{
+   width: 1px;
+   height: 50%;
+   margin-bottom: -369px;
+   float:left
+}
+div#container
+{
+   width: 1000px;
+   height: 738px;
+   margin: 0 auto;
+   position: relative;
+   clear: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Button1
+{
+   box-sizing: border-box;
+   line-height: 75px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 0px solid #FFFFFF;
+   border-radius: 55px;
+   background-color: #74BA02;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-weight: bold;
+   font-style: normal;
+   font-size: 29px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+   animation: animate-border-fade 1000ms linear 0ms infinite alternate backwards;
+}
+#Button1:focus
+{
+   outline: 0;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid #000000;
+   border-radius: 8px;
+   padding: 5px 5px 5px 5px;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
